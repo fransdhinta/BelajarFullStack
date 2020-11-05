@@ -19,6 +19,13 @@
     "pg-promise": "^10.7.1"
   },
   "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.3",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express-handlebars": "^5.2.0",
+    "handlebars": "^4.7.6",
     "jsonwebtoken": "^8.5.1",
     "uuidv4": "^6.2.4"
   }
